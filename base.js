@@ -3,5 +3,5 @@ function test(){
 }
 
 function login(){
-  console.log("login一半")
+  console.log("login完成了")
 }
